@@ -1,8 +1,8 @@
 
 {
-  "name": "YESSER-MD",
+  "name": "xerokhan-md",
   "version": "10.8.1",
-  "description": "YESSER-MD latest multi device whatsapp bot",
+  "description": "xero-md latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
